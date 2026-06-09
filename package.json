@@ -1,0 +1,19 @@
+{
+  "name": "pg-repair-services",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node repairservices.js"
+  },
+  "dependencies": {
+    "csv-parse": "^6.1.0",
+    "playwright": "^1.58.2",
+    "xlsx": "^0.18.5"
+  },
+  "description": "",
+  "main": "modelextractor.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
