@@ -13,8 +13,8 @@ const __dirname = path.dirname(__filename);
 // --------------------
 // Config
 // --------------------
-const EMAIL = 'hassan901002@gmail.com';
-const PASSWORD = 'Santander112@';
+const EMAIL = 'name@example.com';
+const PASSWORD = '12345678';
 const CSV_PATH = path.join(__dirname, 'general.csv');
 
 
