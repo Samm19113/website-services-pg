@@ -4,10 +4,10 @@ import path from 'path';
 import XLSX from 'xlsx';
 
 // -------- CONFIG --------
-const EMAIL = 'hassan901002@gmail.com';
-const PASSWORD = 'Santander112@';
-const BRAND_NAME = 'Xiaomi';
-const DEVICE_TYPE = 'Phone';
+const EMAIL = 'name@example.com';
+const PASSWORD = '12345678';
+const BRAND_NAME = 'brand_name';
+const DEVICE_TYPE = 'device_type';
 
 const MODELS_FILE = path.join('C:\\Users\\samam\\Desktop\\PG', 'price_list_models.csv');
 const PRICE_FILE = path.join('C:\\Users\\samam\\Desktop\\PG', 'price_list.xlsx');
