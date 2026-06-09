@@ -1,10 +1,10 @@
 import { chromium } from 'playwright';
 
 // -------- CONFIG --------
-const EMAIL = 'hassan901002@gmail.com';
-const PASSWORD = 'Santander112@';
-const BRAND_NAME = 'Oppo';
-const DEVICE_TYPE = 'Phone';
+const EMAIL = 'name@example.com';
+const PASSWORD = '12345678';
+const BRAND_NAME = 'brand_name';
+const DEVICE_TYPE = 'device_type';
 // ------------------------
 
 (async () => {
